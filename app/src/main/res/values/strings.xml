@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">공부조이고</string>
+    <string name="title_activity_tap">MainActivity</string>
+    <string name="title_subject">과목 설정</string>
+    <string name="title_chat">학습</string>
+    <string name="title_setting">설정</string>
+
+
+    <string name="next">다음</string>
+    <string name="skip">스킵</string>
+    <string name="start">알겠어!</string>
+
+    <string name="slide_1_title">안녕하세요!</string>
+    <string name="slide_1_desc">"공부조이고"는 세마고등학교 Pathfinder가 제작한 하브루타 공부 채팅앱입니다</string>
+
+    <string name="slide_2_title">하브루타?</string>
+    <string name="slide_2_desc">챗봇 공부 친구에게 개념을 설명하면서 공부를 할 수 있어요</string>
+
+    <string name="slide_3_title">다른 과목은?</string>
+    <string name="slide_3_desc">엑셀 파일을 넣어서 새로운 과목을 추가할 수 있어요</string>
+
+    <string name="slide_4_title">시작합니다!</string>
+    <string name="slide_4_desc">그럼 저희와 함께 시작해볼까요?</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
